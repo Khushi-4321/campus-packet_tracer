@@ -25,5 +25,5 @@ The goal of this project was to create a realistic network environment mirroring
 ## ▶️ How to Explore
 1.  Ensure you have Cisco Packet Tracer installed.
 2.  Clone this repository to your local machine.
-3.  Open the `university_network.pkt` file using Cisco Packet Tracer.
+3.  Open the `campus.pkt` file using Cisco Packet Tracer.
 4.  Explore the network topology and examine the configuration of the firewall device to understand the implemented rules.
